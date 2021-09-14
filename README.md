@@ -1,4 +1,4 @@
-# ExtensaoPLN_USP_50anos
+# Extensao_PLN_USP_50anos
 #### Criei este diretório para compartilhar minha participação no curso Python para Processamento de Linguagem Natural: Edição Comemorativa dos 50 anos do ICMC(MyCodes)
 > ### Participe você também! As inscrições já terminaram mas você pode assistir todas as aulas veja nos links abaixo:
 > ##### aula 1 (1/setembro): https://www.youtube.com/watch?v=CS5wYHJfI_0
